@@ -55,7 +55,6 @@ distro as per the guidelines.
 | Distro      | Latest release | version |                                                          |
 | ------------|----------------|---------|----------------------------------------------------------|
 | Asianux     | 2015-07-24     | 7 Lotus (RHEL 7) |                                                          |
-| Nanolinux | 2015-12-26 | 1.3 |  |
 
 
 #### 2016
